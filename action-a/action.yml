@@ -1,10 +1,10 @@
-name: "Hello Actions"
+name: "Hello Actions de Mario"
 description: "Greet someone"
 author: "octocat@github.com"
 
 inputs:
   MY_NAME:
-    description: "Who to greet"
+    description: "Who to greet KLKKK"
     required: true
     default: "World"
 
